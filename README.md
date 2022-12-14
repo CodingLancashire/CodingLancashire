@@ -1,11 +1,5 @@
 - Computer Science BSc (Honours)
-- My favourite programming languages are JavaScript and C++.
 
-Experienced using Node.JS, Java, Python, HTML, CSS, JavaScript, C++, C#.
+Here you will find all of my projects. I typically program in Javascript, C++, Java and I am learning python for machine learning.
 
-Currently working on developing a fitness tracking application. As well as my university assignments.
-
-
-
-
-The cat in the profile picture isn't mine, but cats > dogs.
+Therefore, I will be treating this Github like a Kaggle account.
